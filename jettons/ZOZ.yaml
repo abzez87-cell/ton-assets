@@ -1,1 +1,6 @@
 
+name: ZOZ-MINER
+symbol: ZOZ
+address: "0:d913f5f35cb1bd1b6cb38db1112c5a50f9b759b9686f1ce9ccd86daab6554d36"
+decimals: 9
+description: "Community-driven mining project built on TON Blockchain."
